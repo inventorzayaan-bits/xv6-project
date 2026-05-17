@@ -1,0 +1,2 @@
+Lab 1: Needs theory of Chapter 1 of xv6
+Booting xv6 is simple you just run make qemu (without debug) or make qemu-gdb (with debugging on). Ctr + p list all running process and Ctrl a then x terminates qemu.
